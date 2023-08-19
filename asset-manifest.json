@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/abhimanyu120/fitness24/static/css/main.091a4f50.css",
+    "main.js": "/abhimanyu120/fitness24/static/js/main.f7baea43.js",
+    "static/js/787.0c248e90.chunk.js": "/abhimanyu120/fitness24/static/js/787.0c248e90.chunk.js",
+    "static/media/homeImage.avif": "/abhimanyu120/fitness24/static/media/homeImage.1559b007535d41aedcea.avif",
+    "index.html": "/abhimanyu120/fitness24/index.html",
+    "main.091a4f50.css.map": "/abhimanyu120/fitness24/static/css/main.091a4f50.css.map",
+    "main.f7baea43.js.map": "/abhimanyu120/fitness24/static/js/main.f7baea43.js.map",
+    "787.0c248e90.chunk.js.map": "/abhimanyu120/fitness24/static/js/787.0c248e90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.091a4f50.css",
+    "static/js/main.f7baea43.js"
+  ]
+}
